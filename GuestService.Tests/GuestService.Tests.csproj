@@ -25,4 +25,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GuestService\GuestService.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -36,8 +36,8 @@ RUN openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
 COPY --from=build /app .
 
 # Expose the service ports
-EXPOSE 8085 
-EXPOSE 8446
+EXPOSE 8082 
+EXPOSE 8442
 
 # Set environment variables for Kestrel to use the generated certificate
 ENV ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetcore.pfx
