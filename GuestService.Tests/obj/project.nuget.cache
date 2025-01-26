@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qiHzYT3XoFDZGDKHMuNsCOG1r2FXFZB75wPblfGNR6cAdw+37blxeuH7DpbY4+6vLl4xJjc3JkFpoYtbB/2VGA==",
+  "dgSpecHash": "fdTwvMRfvWQ5DOB4MBoqxMi141LDpaFemtsw6B3NElvwGh+9oZQpympzG/qWygpc26QgIxIVxdr/aDnQ4llmSA==",
   "success": true,
   "projectFilePath": "/home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/GuestService.Tests.csproj",
   "expectedPackageFiles": [

@@ -39,8 +39,11 @@ public class GuestServiceTests
 
         var dbGuest = await _context.Guests.FindAsync(result.Id);
         dbGuest.Should().NotBeNull();
-        dbGuest.FirstName.Should().Be("John");
-        dbGuest.LastName.Should().Be("Doe");
+        if (dbGuest != null)
+        {
+            dbGuest.FirstName.Should().Be("John");
+            dbGuest.LastName.Should().Be("Doe");
+        }
     }
 
     [Fact]
