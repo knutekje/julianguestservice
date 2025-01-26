@@ -38,6 +38,7 @@
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Mono.TextTemplating.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Moq.dll
+/home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Npgsql.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService/bin/Debug/net8.0/RabbitMQ.Client.dll
