@@ -11,7 +11,7 @@
           "FluentAssertions": "7.0.0",
           "GuestService": "1.0.0",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.0",
-          "Microsoft.NET.Test.Sdk": "17.6.0",
+          "Microsoft.NET.Test.Sdk": "17.12.0",
           "Moq": "4.20.72",
           "Newtonsoft.Json": "13.0.1",
           "coverlet.collector": "6.0.0",
@@ -92,11 +92,11 @@
           }
         }
       },
-      "Microsoft.CodeCoverage/17.6.0": {
+      "Microsoft.CodeCoverage/17.12.0": {
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "17.600.1123.17103"
+            "fileVersion": "17.1200.524.48002"
           }
         }
       },
@@ -282,10 +282,10 @@
           }
         }
       },
-      "Microsoft.NET.Test.Sdk/17.6.0": {
+      "Microsoft.NET.Test.Sdk/17.12.0": {
         "dependencies": {
-          "Microsoft.CodeCoverage": "17.6.0",
-          "Microsoft.TestPlatform.TestHost": "17.6.0"
+          "Microsoft.CodeCoverage": "17.12.0",
+          "Microsoft.TestPlatform.TestHost": "17.12.0"
         }
       },
       "Microsoft.OpenApi/1.6.22": {
@@ -296,23 +296,22 @@
           }
         }
       },
-      "Microsoft.TestPlatform.ObjectModel/17.6.0": {
+      "Microsoft.TestPlatform.ObjectModel/17.12.0": {
         "dependencies": {
-          "NuGet.Frameworks": "5.11.0",
           "System.Reflection.Metadata": "1.6.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           }
         },
         "resources": {
@@ -396,31 +395,31 @@
           }
         }
       },
-      "Microsoft.TestPlatform.TestHost/17.6.0": {
+      "Microsoft.TestPlatform.TestHost/17.12.0": {
         "dependencies": {
-          "Microsoft.TestPlatform.ObjectModel": "17.6.0",
+          "Microsoft.TestPlatform.ObjectModel": "17.12.0",
           "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           },
           "lib/netcoreapp3.1/testhost.dll": {
             "assemblyVersion": "15.0.0.0",
-            "fileVersion": "15.0.0.0"
+            "fileVersion": "17.1200.24.56501"
           }
         },
         "resources": {
@@ -599,14 +598,6 @@
           "lib/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
             "assemblyVersion": "9.0.2.0",
             "fileVersion": "9.0.2.0"
-          }
-        }
-      },
-      "NuGet.Frameworks/5.11.0": {
-        "runtime": {
-          "lib/netstandard2.0/NuGet.Frameworks.dll": {
-            "assemblyVersion": "5.11.0.10",
-            "fileVersion": "5.11.0.10"
           }
         }
       },
@@ -884,12 +875,12 @@
       "path": "microsoft.aspnetcore.openapi/8.0.11",
       "hashPath": "microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512"
     },
-    "Microsoft.CodeCoverage/17.6.0": {
+    "Microsoft.CodeCoverage/17.12.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5v2GwzpR7JEuQUzupjx3zLwn2FutADW/weLzLt726DR3WXxsM+ICPoJG6pxuKFsumtZp890UrVuudTUhsE8Qyg==",
-      "path": "microsoft.codecoverage/17.6.0",
-      "hashPath": "microsoft.codecoverage.17.6.0.nupkg.sha512"
+      "sha512": "sha512-4svMznBd5JM21JIG2xZKGNanAHNXplxf/kQDFfLHXQ3OnpJkayRK/TjacFjA+EYmoyuNXHo/sOETEfcYtAzIrA==",
+      "path": "microsoft.codecoverage/17.12.0",
+      "hashPath": "microsoft.codecoverage.17.12.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/9.0.0": {
       "type": "package",
@@ -1031,12 +1022,12 @@
       "path": "microsoft.extensions.primitives/9.0.0",
       "hashPath": "microsoft.extensions.primitives.9.0.0.nupkg.sha512"
     },
-    "Microsoft.NET.Test.Sdk/17.6.0": {
+    "Microsoft.NET.Test.Sdk/17.12.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tHyg4C6c89QvLv6Utz3xKlba4EeoyJyIz59Q1NrjRENV7gfGnSE6I+sYPIbVOzQttoo2zpHDgOK/p6Hw2OlD7A==",
-      "path": "microsoft.net.test.sdk/17.6.0",
-      "hashPath": "microsoft.net.test.sdk.17.6.0.nupkg.sha512"
+      "sha512": "sha512-kt/PKBZ91rFCWxVIJZSgVLk+YR+4KxTuHf799ho8WNiK5ZQpJNAEZCAWX86vcKrs+DiYjiibpYKdGZP6+/N17w==",
+      "path": "microsoft.net.test.sdk/17.12.0",
+      "hashPath": "microsoft.net.test.sdk.17.12.0.nupkg.sha512"
     },
     "Microsoft.OpenApi/1.6.22": {
       "type": "package",
@@ -1045,19 +1036,19 @@
       "path": "microsoft.openapi/1.6.22",
       "hashPath": "microsoft.openapi.1.6.22.nupkg.sha512"
     },
-    "Microsoft.TestPlatform.ObjectModel/17.6.0": {
+    "Microsoft.TestPlatform.ObjectModel/17.12.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AA/rrf5zwC5/OBLEOajkhjbVTM3SvxRXy8kcQ8e4mJKojbyZvqqhpfNg362N9vXU94DLg9NUTFOAnoYVT0pTJw==",
-      "path": "microsoft.testplatform.objectmodel/17.6.0",
-      "hashPath": "microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512"
+      "sha512": "sha512-TDqkTKLfQuAaPcEb3pDDWnh7b3SyZF+/W9OZvWFp6eJCIiiYFdSB6taE2I6tWrFw5ywhzOb6sreoGJTI6m3rSQ==",
+      "path": "microsoft.testplatform.objectmodel/17.12.0",
+      "hashPath": "microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512"
     },
-    "Microsoft.TestPlatform.TestHost/17.6.0": {
+    "Microsoft.TestPlatform.TestHost/17.12.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-7YdgUcIeCPVKLC7n7LNKDiEHWc7z3brkkYPdUbDnFsvf6WvY9UfzS0VSUJ8P2NgN0CDSD223GCJFSjSBLZRqOQ==",
-      "path": "microsoft.testplatform.testhost/17.6.0",
-      "hashPath": "microsoft.testplatform.testhost.17.6.0.nupkg.sha512"
+      "sha512": "sha512-MiPEJQNyADfwZ4pJNpQex+t9/jOClBGMiCiVVFuELCMSX2nmNfvUor3uFVxNNCg30uxDP8JDYfPnMXQzsfzYyg==",
+      "path": "microsoft.testplatform.testhost/17.12.0",
+      "hashPath": "microsoft.testplatform.testhost.17.12.0.nupkg.sha512"
     },
     "Microsoft.Win32.SystemEvents/6.0.0": {
       "type": "package",
@@ -1093,13 +1084,6 @@
       "sha512": "sha512-cYdOGplIvr9KgsG8nJ8xnzBTImeircbgetlzS1OmepS5dAQW6PuGpVrLOKBNEwEvGYZPsV8037X5vZ/Dmpwz7Q==",
       "path": "npgsql.entityframeworkcore.postgresql/9.0.2",
       "hashPath": "npgsql.entityframeworkcore.postgresql.9.0.2.nupkg.sha512"
-    },
-    "NuGet.Frameworks/5.11.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eaiXkUjC4NPcquGWzAGMXjuxvLwc6XGKMptSyOGQeT0X70BUZObuybJFZLA0OfTdueLd3US23NBPTBb6iF3V1Q==",
-      "path": "nuget.frameworks/5.11.0",
-      "hashPath": "nuget.frameworks.5.11.0.nupkg.sha512"
     },
     "RabbitMQ.Client/7.0.0": {
       "type": "package",

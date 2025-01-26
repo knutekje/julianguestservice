@@ -1,3 +1,4 @@
+/home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_GuestService.Tests
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_GuestService.Tests
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/GuestService.deps.json
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/GuestService.runtimeconfig.json
@@ -45,7 +46,6 @@
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/Npgsql.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
-/home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/RabbitMQ.Client.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/knutekje/Documents/JulianPMS/GuestService/GuestService.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
