@@ -42,8 +42,8 @@ jobs:
         run: dotnet restore ./GuestService.Tests/GuestService.Tests.csproj
 
       - name: Run unit tests with diagnostics
-        run: dotnet test 
-
+        run: dotnet test ./GuestService.Tests/GuestService.Tests.csproj --no-restore --verbosity normal
+        
   docker-build-and-push:
     runs-on: ubuntu-latest
     needs: build-and-test
