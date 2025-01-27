@@ -60,8 +60,8 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker build -t ${{ secrets.DOCKER_USERNAME }}/guestservice:latest -f ./Dockerfile .
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/julianguestservice:latest -f ./Dockerfile .
 
       - name: Push Docker Image
         run: |
-          docker push ${{ secrets.DOCKER_USERNAME }}/guestservice:latest
+          docker push ${{ secrets.DOCKER_USERNAME }}/julianguestservice:latest
